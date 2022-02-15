@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ajienne-Lambey
 - 👀 I’m interested in Cybersecurity, Cloud Computing, and Design
 - 🌱 I’m currently learning how to code in Java and Pyhton
-- 💞️ I’m looking to collaborate on projects involving Cloud Computing, or Cybersecurity
+- 💞️ I’m looking to collaborate on projects involving Cloud Computing or Cybersecurity
