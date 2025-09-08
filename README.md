@@ -54,9 +54,7 @@ Outside of tech, I write and perform music at open mics, mentor students in life
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- This section can be auto-updated via GitHub Actions using your Medium RSS feed -->
-<!-- Example of static fallback: -->
-- [Check out my latest articles on Medium](https://medium.com/@ajiennelambey)
+<!-- This section will be auto-populated from your Medium RSS feed via GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
