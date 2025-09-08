@@ -54,7 +54,7 @@ Outside of tech, I write and perform music at open mics, mentor students in life
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be auto-populated from your Medium RSS feed via GitHub Actions -->
+- [The Unspoken Algorithm: Pinterest’s Visual Language of Discovery](https://medium.com/@ajiennelambey/the-unspoken-algorithm-pinterests-visual-language-of-discovery-a3c1339397e6?source=rss-75c9727e7f72------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
