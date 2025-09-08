@@ -1,0 +1,19 @@
+name: Update Medium Blog Posts in README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-medium-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README with Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@ajiennelambey"
+          readme_path: "README.md"
+          section_start: "<!-- BLOG-POST-LIST:START -->"
+          section_end: "<!-- BLOG-POST-LIST:END -->"
