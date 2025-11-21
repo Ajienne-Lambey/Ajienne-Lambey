@@ -12,7 +12,7 @@
 ## 🌟 About Me
 I’m a **UX Researcher and Entrepreneur** passionate about creating ethical, user-centered tech experiences.  
 
-I'm the founder of **Anchor Path**, a startup developing a **safe navigation app for kids and parents**, inspired by my original hackathon project **SafeRoutes**—designed to offer safe havens and build B2B social impact through school and community networks.  
+I'm the founder of **Forward Launch Studios**, a startup developing a **safe navigation app for kids and parents**, inspired by my original hackathon project **SafeRoutes**—designed to offer safe havens and build B2B social impact through school and community networks.  
 
 I combine **UX/UI design, artificial intelligence, machine learning, and AWS cloud services** to create scalable, meaningful solutions that protect communities.
 
